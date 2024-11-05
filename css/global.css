@@ -2497,7 +2497,7 @@ blockquote {
     border-color: #000;
     border-radius: 50%;
     background-color: #1f1f1f;
-    background-image: url("/assets/screenshot/cosmos.jpg");
+    background-image: url("/assets/screenshot/pastels.jpg");
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -2520,7 +2520,7 @@ blockquote {
     z-index: 4;
     margin-top: 97vh;
     margin-left: 47.6em;
-    background-image: url("/assets/screenshot/pastels.jpg");
+    background-image: url("/assets/screenshot/cosmos.jpg");
 }
 
 .box.is--4 {
@@ -2553,7 +2553,7 @@ blockquote {
 
 .box.is--1 {
     z-index: 2;
-    background-image: url("/assets/screenshot/cosmos.jpg");
+    background-image: url("/assets/screenshot/pastels.jpg");
 }
 
 .alt {
@@ -2565,7 +2565,7 @@ blockquote {
     z-index: 2000;
     display: none;
     background-color: #fff;
-    background-image: url("/assets/screenshot/cosmos.jpg");
+    background-image: url("/assets/screenshot/pastels.jpg");
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
